@@ -5,6 +5,8 @@
 **Status:** working baseline report. Every claim carries a grade; several widely-repeated numbers
 are contested and are marked as such.
 
+**Read this before quoting it.** Most claims below are grade B or C by this repo's own scale. Grade C is not actionable. Section 4 is a coverage gap, not coverage: English-language sources do not see the Asian streaming and marketplace ecosystems. Do not send this note as a finished intel brief. A useful brief is one primary post, one detection implication, and one thing the post does not let you conclude.
+
 ## Executive summary
 
 Three shifts define the current period: (1) the fight has moved down the stack, from user-mode

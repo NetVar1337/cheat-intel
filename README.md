@@ -54,8 +54,8 @@ Most community claims arrive at grade C and are widely reported as fact. Say so 
 
 ## Scope and conduct
 
-- **Public sources only.** Public forums, public listings, vendor advisories, official game
-  posts, published research.
+- **Public sources only.** Public forums, public listings, vendor advisories, official game posts, published research.
+- **Independent research, not an internal feed.** I do not work for a studio. The landscape note in `reports/` is a graded working draft, not a brief you should forward.
 - **No purchasing, no operating, no distributing** cheat software, accounts, or spoofers.
   Collection is observational. Buying a subscription is not "research"; it funds the operation
   you are studying and creates handling obligations you do not need.
